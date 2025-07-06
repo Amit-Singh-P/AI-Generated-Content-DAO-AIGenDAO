@@ -1,5 +1,11 @@
 # 🌟 AI-Generated Content DAO (AIGenDAO)
 
+# How to Run:
+1. Install dependencies:
+npm install --save-dev @openzeppelin/contracts @nomicfoundation/hardhat-toolbox @openzeppelin/hardhat-upgrades
+2. Run the script:
+npx hardhat run scripts/aigendao.js --network hardhat
+
 ## 🚀 One-Click Participation
 1. **Create**: Submit a prompt → AI generates content → Mint as NFT.  
 2. **Vote**: Earn tokens for voting on the best content.  
