@@ -1,7 +1,7 @@
 {
-  "name": "aigen-dao",
+  "name": "Decentralized AI Content Generation DAO",
   "version": "1.0.0",
-  "description": "Decentralized AI Content Generation DAO",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "hardhat test",
