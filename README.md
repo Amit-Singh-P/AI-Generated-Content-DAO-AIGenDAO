@@ -38,3 +38,9 @@ Contract Address - 0x71B236efcC8Dfe7b82E2c26fdcb74CBfE99E8b55
 
 <img width="1470" alt="Screenshot 2025-06-27 at 12 55 25 AM" src="https://github.com/user-attachments/assets/479cc767-8d27-4fba-9eb5-8a0c4a6f3ded" />
 
+
+## ✅ Features Added:
+• Pagination for Top-N Contents
+• Sorting by Date & Creator
+• Role-Based Moderation (Admin / Moderator)
+• Voting Cooldown (1 vote per 1 hour per content)
