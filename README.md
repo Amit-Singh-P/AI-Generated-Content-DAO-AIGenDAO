@@ -40,7 +40,7 @@ Contract Address - 0x71B236efcC8Dfe7b82E2c26fdcb74CBfE99E8b55
 
 
 ## ✅ Features Added:
-• Pagination for Top-N Contents
-• Sorting by Date & Creator
-• Role-Based Moderation (Admin / Moderator)
-• Voting Cooldown (1 vote per 1 hour per content)
+- Pagination for Top-N Contents
+- Sorting by Date & Creator
+- Role-Based Moderation (Admin / Moderator)
+- Voting Cooldown (1 vote per 1 hour per content)
